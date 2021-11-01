@@ -1,0 +1,23 @@
+div {
+  display: block;
+}
+h1 {
+  font-size: 42px;
+}
+body {
+  font-family: 'Zen Antique Soft', serif;
+  font-size: 20px;
+}
+.italic {
+  font-style: italic;
+}
+.banner {
+  background-image: url(https://sites.psu.edu/leaderfoundationsclarke/files/2017/06/Kobe-tunnel-2-27ke6dv.jpg);
+  background-size: cover;
+  color: white;
+  padding: 120px 0;
+}
+.container {
+  width: 700px;
+  margin: 50px auto;
+}
